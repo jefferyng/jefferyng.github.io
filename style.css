@@ -1,0 +1,28 @@
+  html {
+      margin: 0; padding: 0;
+      background: url(images/snowy-night.jpg ) center bottom no-repeat #000;
+      height: 100%;
+      font: normal 14px/18px 'Voltaire', sans-serif;
+  }
+
+  body {
+      margin: 0; padding: 20px 45px;
+      color: #DDD;
+  }
+
+
+    h1 {
+       font: normal 60px/72px 'Voltaire', sans-serif;
+       margin: 0 0 15px 0; padding: 0;
+       text-shadow: 2px 2px 8px #888;
+    }
+
+    a { outline: 0;  }
+
+      a img {
+          opacity: 0.9; 
+          width: 30px; height: 30px;
+          border: none;
+      }
+
+      a:hover img {  opacity: 1; }
